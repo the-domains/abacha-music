@@ -1,0 +1,14 @@
+layout_spectrum: 0.2527985
+color:
+  saturation: 0.7383395
+  lightness: 0.5027985
+  brandStrength: 0.4986008
+  brandColors:
+    - '#2E070A'
+    - '#FFFFFF'
+    - '#737069'
+    - '#B3B1A5'
+    - '#A61E2C'
+  rhythmicContrast: 0.7448694
+typography_spectrum: 0.6833022
+name: abacha music
