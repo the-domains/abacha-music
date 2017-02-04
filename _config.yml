@@ -23,6 +23,9 @@ author:
 name: Abacha Music
 url: 'http://abachamusic.com.au/'
 navigation:
+  - name: About Me
+    id: 9f2b83d8-deac-4f50-8af3-f5bbe88eac6b
+    type: content
   - name: Music Lessons
     id: 0a0f5246-43bf-4cf3-a8ca-5c4cc15c36cc
     type: content
@@ -34,9 +37,6 @@ navigation:
     type: content
   - name: Contact Details
     id: c86f05ed-135a-4531-9d57-4afb505479b4
-    type: content
-  - name: About Me
-    id: 9f2b83d8-deac-4f50-8af3-f5bbe88eac6b
     type: content
 title: Abacha Music
 content:
