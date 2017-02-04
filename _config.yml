@@ -12,12 +12,16 @@ color:
     - '#B3B1A5'
     - '#A61E2C'
   rhythmicContrast: 0.7448694
+github: true
 layout_spectrum: 0.2527985
+analytics:
+  google: UA-91386704-1
 author:
   name: Janina Adomski
   email: janina@abachamusic.com.au
   url: 'http://www.abachamusic.com.au/'
 name: Abacha Music
+url: 'http://abachamusic.com.au/'
 navigation:
   - name: Music Lessons
     id: 0a0f5246-43bf-4cf3-a8ca-5c4cc15c36cc
@@ -30,6 +34,9 @@ navigation:
     type: content
   - name: Contact Details
     id: c86f05ed-135a-4531-9d57-4afb505479b4
+    type: content
+  - name: About Me
+    id: 9f2b83d8-deac-4f50-8af3-f5bbe88eac6b
     type: content
 title: Abacha Music
 content:
@@ -86,7 +93,3 @@ purpose:
   - type: internal
     label: Contact Me!
     item: c86f05ed-135a-4531-9d57-4afb505479b4
-github: true
-url: 'http://abachamusic.com.au/'
-analytics:
-  google: UA-91386704-1
